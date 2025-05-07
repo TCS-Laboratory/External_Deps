@@ -3995,7 +3995,7 @@ msgstr ""
 
 #: bika/lims/content/bikasetup.py:491
 msgid "Preferred layout of the results entry table in the Worksheet view. Classic layout displays the Samples in rows and the analyses in columns. Transposed layout displays the Samples in columns and the analyses in rows."
-msgstr ""Preferred layout of the results entry table in the Jobcard view. Classic layout displays the Samples in rows and the analyses in columns. Transposed layout displays the Samples in columns and the analyses in rows."
+msgstr "Preferred layout of the results entry table in the Jobcard view. Classic layout displays the Samples in rows and the analyses in columns. Transposed layout displays the Samples in columns and the analyses in rows."
 
 #: bika/lims/content/bikasetup.py:291
 msgid "Preferred scientific notation format for reports"
