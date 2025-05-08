@@ -884,7 +884,7 @@ msgstr ""
 
 #: bika/lims/content/abstractbaseanalysis.py:481
 msgid "Bulk price (excluding VAT)"
-msgstr ""
+msgstr "Bulk price (excluding GST)"
 
 #: bika/lims/browser/client/views/contacts.py:74
 msgid "Business Phone"
@@ -2228,7 +2228,7 @@ msgid ""
 "only, overriding the systems VAT"
 msgstr ""
 "Enter percentage value eg. 14.0. This percentage is applied on the Test Profile "
-"only, overriding the systems VAT"
+"only, overriding the systems GST"
 
 #: bika/lims/content/bikasetup.py:268
 msgid ""
@@ -4323,11 +4323,11 @@ msgstr ""
 #: bika/lims/content/abstractbaseanalysis.py:471
 #: bika/lims/content/analysisprofile.py:112
 msgid "Price (excluding VAT)"
-msgstr ""
+msgstr "Price (excluding GST)"
 
 #: bika/lims/content/labproduct.py:54
 msgid "Price excluding VAT"
-msgstr ""
+msgstr "Price excluding GST"
 
 #: bika/lims/profiles/default/types/Pricelist.xml
 msgid "Pricelist"
@@ -6504,16 +6504,16 @@ msgstr ""
 #: bika/lims/browser/analysisrequest/templates/invoice_content.pt:167
 #: bika/lims/content/analysisprofile.py:134
 msgid "VAT"
-msgstr ""
+msgstr "GST"
 
 #: bika/lims/content/abstractbaseanalysis.py:495
 #: bika/lims/content/analysisprofile.py:122 bika/lims/content/bikasetup.py:267
 msgid "VAT %"
-msgstr ""
+msgstr "GST %"
 
 #: bika/lims/content/organisation.py:52
 msgid "VAT number"
-msgstr ""
+msgstr "GSTIN"
 
 #: bika/lims/browser/analyses/view.py:221
 msgid "Valid"
@@ -6862,7 +6862,7 @@ msgid ""
 "system's VAT is overridden by the analysis profile's specific VAT"
 msgstr ""
 "When it's set, the system uses the test profile's price to quote and the system's "
-"VAT is overridden by the test profile's specific VAT"
+"GST is overridden by the test profile's specific GST"
 
 #: bika/lims/content/abstractbaseanalysis.py:400
 msgid ""
